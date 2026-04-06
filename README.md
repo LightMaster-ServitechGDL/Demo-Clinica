@@ -1,2 +1,2 @@
 # Demo-Clinica
-´Demo paquete estándar - Clínica
+´Demo paquete premium - Clínica
